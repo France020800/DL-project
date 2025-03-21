@@ -1,7 +1,13 @@
-All'interno di questa repo sono presenti due files di DEMO:
+Deep Learning exam project.
+In this repo I replicate the results of the PANDA paper:
+Reiss, T., Cohen, N., Bergman, L., & Hoshen, Y. (2021). PANDA: Adapting
+Pretrained Features for Anomaly Detection and Segmentation. Proceedings of the
+IEEE/CVF Conference on Computer Vision and Pattern Recognition, 2806–2814.
+https://openaccess.thecvf.com/content/CVPR2021/html/Reiss_PANDA_Adapting_Pretrained_Features_for_Anomaly_Detection_and_Segmentation_CVPR_2021_paper.html
+
+DEMO files can be access:
  - 'experiment_example.py'
  - 'pretrained_experiment_example.py'
-nei quali è possibile visionare ed eseguire la struttura del codice usata per i vari esperimenti.
 
-**ATTENZIONE**
-Assicurarsi di modificare il range di iterazioni del ciclo for principale per renderlo coerente con il numero di classi da testare a seconda del dataset utilizzato!
+**WARNING**
+Modify the iteration number of the main loop to be consistent on the number of classes of the used dataset!
