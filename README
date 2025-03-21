@@ -1,0 +1,7 @@
+All'interno di questa repo sono presenti due files di DEMO:
+ - 'experiment_example.py'
+ - 'pretrained_experiment_example.py'
+nei quali è possibile visionare ed eseguire la struttura del codice usata per i vari esperimenti.
+
+**ATTENZIONE**
+Assicurarsi di modificare il range di iterazioni del ciclo for principale per renderlo coerente con il numero di classi da testare a seconda del dataset utilizzato!
